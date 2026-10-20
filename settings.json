@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "PerzaanLive",
+    "username": "BITEDSMPBOT",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 75375,
+    "ip": "BITEDSMP.aternos.me",
+    "port": 43464,
     "version": "1.21.1"
   },
   "position": {
